@@ -78,14 +78,14 @@ var randomItem = selectRandomItem(items);
                         let md = "DRAXEN-AI~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `┏━━━━━━━━━━━━━━ 
-┃DRAXEN-AI
+┃Queen-grils
 ┃𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒
 ┃𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 
 ┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✅🔥
 ┗━━━━━━━━━━━━━━━ 
  ★ || ᴡʜᴀᴛsᴀᴘᴘ = https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/abdallahsalimjuma/DRAXEN-Ai 
+ ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/NjabuloJ/Queen-grils 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
  ★ || ʏᴏᴜᴛᴜʙᴇ = https://youtube.com/@abdallahsalim-f5u?si=PPyQy2qogiXA-PCG  
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ `; 
@@ -93,8 +93,8 @@ var randomItem = selectRandomItem(items);
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "DRAXEN-AI",
-thumbnailUrl: "https://files.catbox.moe/tmmvub.jpg",
+title: "Queen-grils",
+thumbnailUrl: "https://files.catbox.moe/h4lxeb.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -109,8 +109,8 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "DRAXEN-AI",
-thumbnailUrl: "https://files.catbox.moe/tmmvub.jpg",
+title: "Queen-grils",
+thumbnailUrl: "https://files.catbox.moe/h4lxeb.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10",
 mediaType: 2,
 renderLargerThumbnail: true,

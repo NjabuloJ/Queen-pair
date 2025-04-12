@@ -1,8 +1,8 @@
 {
-    "name": "DRAXEN-Ai.PAIR",
-    "description": "I'm Web Session Generator by DRAXEN-Ai 🤎",
-    "logo": "https://i.ibb.co/YdSKMhv/6767.jpg",
-    "repository": "https://github.com/abdallahsalimjuma/DRAXEN-Ai.PAIR",
+    "name": "QUEEN-GRILS.PAIR",
+    "description": "I'm Web Session Generator by Queen-grils 🤎",
+    "logo": "https://files.catbox.moe/h4lxeb.jpg",
+    "repository": "https://github.com/NjabuloJ/Queen-grils.PAIR",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],

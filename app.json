@@ -1,8 +1,8 @@
 {
-    "name": "SHEIKH-ALI-MD.PAIR",
-    "description": "I'm Web Session Generator by 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡",
+    "name": "DRAXEN-Ai.PAIR",
+    "description": "I'm Web Session Generator by DRAXEN-Ai 🤎",
     "logo": "https://i.ibb.co/YdSKMhv/6767.jpg",
-    "repository": "https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD.PAIR",
+    "repository": "https://github.com/abdallahsalimjuma/DRAXEN-Ai.PAIR",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
